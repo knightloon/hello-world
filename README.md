@@ -7,3 +7,5 @@ Lets try to make a bulleted list
 Heraclitus
 
 * Non quote
+
+**Is this better?**
